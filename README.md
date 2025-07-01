@@ -7,8 +7,13 @@ Bu proje, Python dilinde Tkinter kütüphanesi kullanılarak geliştirilmiş bas
 ## 🎯 Özellikler
 
 ✅ Görev ekleme
+
 📌 Görevleri tamamlandı olarak işaretleme
+
 ❌ Seçilen görev(ler)i silme
+
 💾 Görevleri tasks.json dosyasına kaydetme
+
 🔄 Uygulama açıldığında görevleri otomatik yükleme
+
 📦 Basit ve renkli bir arayüz
