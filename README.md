@@ -2,7 +2,7 @@
 Bu proje, Python dilinde Tkinter kütüphanesi kullanılarak geliştirilmiş basit ve kullanıcı dostu bir To-Do List (Yapılacaklar Listesi) uygulamasıdır. Kullanıcılar görev ekleyebilir, görevleri tamamlandı olarak işaretleyebilir, silebilir ve görevlerini JSON dosyasına kaydedip yeniden yükleyebilir.
 
 ## 🖼️ Arayüz Görünümü
-<p align="center"> <img src="todo.png" alt="todo-ui" width="300"/> </p>
+<p align="center"> <img src="To-do list/todo.png" alt="todo-ui" width="300"/> </p>
 
 ## 🎯 Özellikler
 
