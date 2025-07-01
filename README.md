@@ -1,4 +1,4 @@
-#📌 Yapılacaklar Listesi (To-Do List) — Tkinter GUI
+# 📌 Yapılacaklar Listesi (To-Do List) — Tkinter GUI
 Bu proje, Python dilinde Tkinter kütüphanesi kullanılarak geliştirilmiş basit ve kullanıcı dostu bir To-Do List (Yapılacaklar Listesi) uygulamasıdır. Kullanıcılar görev ekleyebilir, görevleri tamamlandı olarak işaretleyebilir, silebilir ve görevlerini JSON dosyasına kaydedip yeniden yükleyebilir.
 
 ## 🖼️ Arayüz Görünümü
